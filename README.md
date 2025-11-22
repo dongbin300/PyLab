@@ -11,3 +11,8 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install matplotlib==3.9.3
 - pip install seaborn==0.13.2
 - pip install xgboost==2.1.3
+- pip install plotly
+
+## Troubleshooting
+nbformat 관련 에러 시
+`pip install nbformat ipython --upgrade`
