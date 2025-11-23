@@ -16,6 +16,8 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install geopandas==1.0.1
 - pip install contextily==1.6.2
 - pip install shapely==2.0.6
+- pip install umap-learn==0.5.7
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
+- TqdmWarning 경고 없애기 `pip install --upgrade ipywidgets`
