@@ -17,6 +17,7 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install contextily==1.6.2
 - pip install shapely==2.0.6
 - pip install umap-learn==0.5.7
+- pip install scipy==1.14.1
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
