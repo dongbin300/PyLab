@@ -210,4 +210,4 @@ __marimo__/
 .conda/
 *.conda_trash*
 
-memo.txt
+memo*.txt
