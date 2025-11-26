@@ -211,3 +211,6 @@ __marimo__/
 *.conda_trash*
 
 memo*.txt
+
+# keras
+*.keras
