@@ -19,6 +19,7 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install umap-learn==0.5.7
 - pip install scipy==1.14.1
 - pip install tensorflow_cpu==2.18.0
+- pip install tensorflow==2.17.1
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
