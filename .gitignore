@@ -210,7 +210,14 @@ __marimo__/
 .conda/
 *.conda_trash*
 
+# comment files
 memo*.txt
 
 # keras
 *.keras
+
+# resource files
+aircraft_damage*
+
+# final project files
+2.5.1.ipynb

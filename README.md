@@ -20,6 +20,9 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install scipy==1.14.1
 - pip install tensorflow_cpu==2.18.0
 - pip install tensorflow==2.17.1
+- pip install pillow==11.1.0
+- pip install transformers==4.38.2
+- pip install torch
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
