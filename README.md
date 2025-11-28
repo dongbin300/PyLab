@@ -23,6 +23,7 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install pillow==11.1.0
 - pip install transformers==4.38.2
 - pip install torch
+- pip install pydot graphviz
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
