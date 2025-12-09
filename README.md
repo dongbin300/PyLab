@@ -25,6 +25,7 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install torch
 - pip install pydot graphviz
 - pip install keras-tuner
+- pip install gym
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
