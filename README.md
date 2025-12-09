@@ -24,6 +24,7 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install transformers==4.38.2
 - pip install torch
 - pip install pydot graphviz
+- pip install keras-tuner
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`
