@@ -219,7 +219,7 @@ memo*.txt
 # resource files
 aircraft_damage*
 fruits-360-original-size/
-resources/
+Practices/AIE/C4/resources/
 
 # final project files
 2.5.1.ipynb
