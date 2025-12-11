@@ -9,4 +9,4 @@ Forward step
 SGD
 데이터 로더
 MBGD
-최적화기
+옵티마이저
