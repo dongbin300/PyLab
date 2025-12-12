@@ -227,3 +227,5 @@ Practices/AIE/C4/data/
 sample_data/
 o-vs-r-split/
 3.7.2.ipynb
+4.6.2.ipynb
+*.pth
