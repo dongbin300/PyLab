@@ -28,6 +28,7 @@ Practices/[PC_NAME]/[COURSE_#]/[COURSE_#].[MODULE_#].[#].py
 - pip install gym
 - pip install torch==2.8.0+cpu torchvision==0.23.0+cpu torchaudio==2.8.0+cpu --index-url https://download.pytorch.org/whl/cpu
 - pip install ucimlrepo==0.0.7
+- pip install skillsnetwork
 
 ## Troubleshooting
 - nbformat 관련 에러 시 `pip install nbformat ipython --upgrade`

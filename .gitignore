@@ -222,6 +222,8 @@ fruits-360-original-size/
 Practices/AIE/C4/resources/
 Practices/AIE/C4/data/
 Practices/AIE/C5/data/
+Practices/AIE/C5/.fashion/
+Practices/AIE/C6/images_dataSAT/
 
 # final project files
 2.5.1.ipynb
@@ -230,3 +232,4 @@ o-vs-r-split/
 3.7.2.ipynb
 4.6.2.ipynb
 *.pth
+5.6.2.ipynb
