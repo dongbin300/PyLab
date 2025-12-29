@@ -225,6 +225,8 @@ Practices/AIE/C5/data/
 Practices/AIE/C5/.fashion/
 Practices/AIE/C6/images_dataSAT/
 Practices/AIE/C8/.vector_cache/
+Practices/AIE/C9/bert_dataset/
+train_bert_data_new.csv
 
 # final project files
 2.5.1.ipynb
